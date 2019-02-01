@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- APP DEFAULT -->
+    <string name="app_name">Tugas Uas Eksperimen Warna</string>
+
+    <!-- OTHER -->
+    <string name="show_on_github">Show on GitHub</string>
+
+
+</resources>
